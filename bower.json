@@ -1,0 +1,17 @@
+{
+    "name": "voces-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Multiple Designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/voces-bower.git"
+    },
+    "description": "Voces font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
